@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "857a493b-69d2-cb2d-9127-4b364d4afad3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "MADM with Applications in Material Selection and Optimal Design",
+  "course_description": "This course begins with a comparative review of conventional and advanced multiple attribute decision making (MADM) models in engineering practice. Next, a new application of particular MADM models in reliable material selection of sensitive structural components as well as a multi-criteria Taguchi optimization method is discussed. Other specific topics include dealing with uncertainties in material properties, incommensurability in decision-makers opinions for the same design, objective ways of weighting performance indices, rank stability analysis, compensations and non-compensations.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.994",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
